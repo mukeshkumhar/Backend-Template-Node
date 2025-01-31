@@ -2,9 +2,9 @@
 
 This is the Backend Template for easy creation here is pre file or code will be written so that it can be used or modified
 
-##controller
+## controller
 
-###UserController
+### UserController
 registerUser, 
 loginUser, 
 logoutUser, 
@@ -18,28 +18,28 @@ updateUserCoverImage,
 getUserChannelProfile,
 getWatchHistory
 
-###VideosController
+### VideosController
 UploadVideo, 
 DeleteVideo
 
-##MongoDBController
+## MongoDBController
 
-###DBController
+### DBController
 connectDB 
 
-##Middleware
+## Middleware
 
-###Auth.Middleware
+### Auth.Middleware
 verifyJWT
 
-###Multer.Middleware
+### Multer.Middleware
 upload File
 
-##Modals
-###UserModal
-###VideoModal
+## Modals
+### UserModal
+### VideoModal
 
-##Router
-###UserRouter
-###VideoRouter
+## Router
+### UserRouter
+### VideoRouter
 
